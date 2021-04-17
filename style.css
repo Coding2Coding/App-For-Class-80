@@ -1,0 +1,19 @@
+input {
+    background-color: white;
+    border-style: ridge;
+    border-color: lightskyblue;
+    border-radius: 2px;
+    border-width: 2px;
+}
+
+button {
+    background-color: white;
+    border-style: ridge;
+    border-color: lightskyblue;
+    border-radius: 2px;
+    border-width: 2px;
+}
+
+div {
+    margin-bottom: 20px;
+}
